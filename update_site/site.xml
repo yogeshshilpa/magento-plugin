@@ -3,7 +3,7 @@
    <description name="Magento Eclipse Plugin">
       Magento Development Tool Kit
    </description>
-   <feature url="features/org.eclipse.magento_1.0.0.v20120125.jar" id="org.eclipse.magento" version="1.0.0.v20120125">
+   <feature url="features/org.eclipse.magento_1.0.2.v20120216.jar" id="org.eclipse.magento" version="1.0.2.v20120216">
       <category name="org.eclipse.magento"/>
    </feature>
    <category-def name="org.eclipse.magento" label="Magento Eclipse Plugin">
